@@ -18,7 +18,10 @@ I wanted to challenge myself and have a project to utilise some of the javascrip
 
 I found several challenges in the making of this project, I ran into some issues to do with file paths and also file organisation which I believe led me to a 404 error message for the app.js file I've created. I'm working on debugging this soon to showcase the animations I've worked on.
 
-I believe this was due to some issues around file structuring so I deleted the project and started again. 
+I believe this was due to some issues around file structuring so I deleted the project and started again.
+
+One other challange I ran into was where the `playerChoice` was showing as undefined, I identified that this was to do with the `compareHands`function and rewrote my compare function and conditional statement to correct the syntax error
 
 ## To Do
+
 3. Test it and send the game to friends.
