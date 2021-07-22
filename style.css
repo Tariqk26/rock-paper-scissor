@@ -39,6 +39,7 @@ section {
 .intro h1 {
   font-size: 50px;
 }
+
 .intro button,
 .match button {
   width: 150px;
@@ -51,7 +52,6 @@ section {
   border-radius: 3px;
   cursor: pointer;
 }
-
 .match {
   position: absolute;
   top: 50%;
